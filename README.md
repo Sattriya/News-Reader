@@ -6,7 +6,7 @@
 
 <br>
 
-<h3> align="center">Aplikasi Penampil Berita Sederhana Yang Dibuat Dengan <b>Flutter</b> Dan API Dari <b>newsdata.io</b></h3> <br>
+<h3 align="center"> Aplikasi Penampil Berita Sederhana Yang Dibuat Dengan <b>Flutter</b> Dan API Dari <b>newsdata.io</b></h3> <br>
 <hr style="border: 1px dashed #4CAF50;" />
 <br>
 
