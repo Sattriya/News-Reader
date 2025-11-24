@@ -1,6 +1,6 @@
 <h1 align="center"> 📰 News Reader </h1> <br>
 
-<h4>👥 Nama:</h4>
+<h3>👥 Nama:</h3>
 🙋‍♂️ Satriya Bumi Harja: **XI/PPLG-3/24** <br>
 <hr style="border: 1px dashed #4CAF50;" />
 
@@ -10,7 +10,7 @@
 <hr style="border: 1px dashed #4CAF50;" />
 <br>
 
-<h4>⚙️ Fitur-fitur Didalam Aplikasi: </h4>
+<h3>⚙️ Fitur-fitur Didalam Aplikasi: </h3>
  ✔️ Dapat melihat berita di dunia 🌍 <br>
  ✔️ Dapat menyimpan berita di bagian bookmark 🔖 <br>
  ✔️ Pencarian berita yang ingin dicari 🔍 <br>
@@ -18,7 +18,7 @@
 <hr style="border: 1px dashed #4CAF50;" />
  <br>
  
-<h4>🔑 Dokumentasi API key dari newsdata.io</h4> <br>
+<h3>🔑 Dokumentasi API key dari newsdata.io</h3> <br>
 <hr style="border: 1px dashed #4CAF50;" />
 
 <br>
@@ -28,7 +28,7 @@
 
 <br>
 
-<h3🤔 Cara mendapat API key dari newsdata.io</h3> <br>
+<h3> 🤔 Cara mendapat API key dari newsdata.io</h3> <br>
 1. Daftar di newsdata.io (https://newsdata.io/register) <br>
 2. Pergi ke halaman dashboard <br>
 3. Ambil API key mu pada menu API Keys <br>
@@ -36,7 +36,7 @@
 
 <br>
 
-<h4>❓ Cara Menggunakan API Key</h4> <br>
+<h3>❓ Cara Menggunakan API Key</h3> <br>
 Masukkan API key ke request, misal: https://newsdata.io/api/1/news?apikey=YOUR_API_KEY&language=en <br>
 <hr style="border: 1px dashed #4CAF50;" />
 
