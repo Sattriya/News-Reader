@@ -1,16 +1,42 @@
-# news_reader
+<h1 align="center"> 📰 News Reader </h1>
 
-A new Flutter project.
+<h4>👥 Nama:</h4>
+🙋‍♂️ Satriya Bumi Harja: **XI/PPLG-3/24**
 
-## Getting Started
+<h3 align="center">Aplikasi Penampil Berita Sederhana Yang Dibuat Dengan <b>Flutter</b> Dan API Dari <b>newsdata.io</b></h3>
 
-This project is a starting point for a Flutter application.
+<h4>⚙️ Fitur-fitur Didalam Aplikasi: </h4>
+ ✔️ Dapat melihat berita di dunia 🌍
+ ✔️ Dapat menyimpan berita di bagian bookmark 🔖
+ ✔️ Pencarian berita yang ingin dicari 🔍
+ ✔️ Penyortiran berita terhadap kategori 📚
 
-A few resources to get you started if this is your first Flutter project:
+<h4>🔑 Dokumentasi API key dari newsdata.io</h4>
+<hr style="border: 1px dashed #4CAF50;" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Kamu ingin memodifikasi aplikasi berita ini? kamu butuh layanan API dari newsdata.io, lihat caranya 👇
+<hr style="border: 1px dashed #4CAF50;" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3🤔 Cara mendapat API key dari newsdata.io</h3>
+1. Daftar di newsdata.io (https://newsdata.io/register)
+2. Pergi ke halaman dashboard
+3. Ambil API key mu pada menu API Keys
+<hr style="border: 1px dashed #4CAF50;" />
+
+<h4>❓ Cara Menggunakan API Key</h4>
+Masukkan API key ke request, misal: https://newsdata.io/api/1/news?apikey=YOUR_API_KEY&language=en
+<hr style="border: 1px dashed #4CAF50;" />
+
+<h3>📸 Screenshot isi aplikasi</h3>
+Home Page
+<img src="ss/home.png"/>
+Bookmark Page
+<img src="bookmark/home.png"/>
+Search
+<img src="search/home.png"/>
+Category
+<img src="category/home.png"/>
+<hr style="border: 1px dashed #4CAF50;" />
+
+
+
