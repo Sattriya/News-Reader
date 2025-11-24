@@ -1,11 +1,11 @@
 <h1 align="center"> 📰 News Reader </h1>
 
 <h4>👥 Nama:</h4>
-🙋‍♂️ Satriya Bumi Harja: **XI/PPLG-3/24**
+🙋‍♂️ Satriya Bumi Harja: **XI/PPLG-3/24** <br>
 -----------------------------------------------------------------------------------------------------------------------------
 <br>
 
-<h3> align="center">Aplikasi Penampil Berita Sederhana Yang Dibuat Dengan <b>Flutter</b> Dan API Dari <b>newsdata.io</b></h3>
+<h3> align="center">Aplikasi Penampil Berita Sederhana Yang Dibuat Dengan <b>Flutter</b> Dan API Dari <b>newsdata.io</b></h3> <br>
 -----------------------------------------------------------------------------------------------------------------------------
 <br>
 
